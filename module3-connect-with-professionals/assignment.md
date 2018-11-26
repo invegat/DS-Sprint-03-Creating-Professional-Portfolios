@@ -3,11 +3,26 @@
 
 ### List your target geographic areas
 
+- 
+
 
 ### List your target industries
 
+- 
+
 
 ### List 10 companies in your target geographic area or industry
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 
 ### Find 5 data scientists who:
